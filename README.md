@@ -13,27 +13,34 @@
 
 ## 🚀 About Me
 
-```yaml
-apiVersion: v1
-kind: CloudEngineer
-metadata:
-  name: "클라우드 전문가"
-  labels:
-    role: "Solutions Architect"
-    experience: "5+ years"
-    specialty: "AWS & Kubernetes"
-spec:
-  skills:
-    - Cloud Architecture Design
-    - Infrastructure as Code
-    - Container Orchestration
-    - CI/CD Pipeline Automation
-    - Cost Optimization
-  certifications:
-    - AWS Solutions Architect Professional
-    - AWS DevOps Engineer Professional
-    - Certified Kubernetes Administrator (CKA)
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 💼 전문 분야
+🏗️ **클라우드 아키텍처 설계**<br/>
+⚙️ **Infrastructure as Code**<br/>
+🐳 **컨테이너 오케스트레이션**<br/>
+🔄 **CI/CD 파이프라인 자동화**<br/>
+💰 **클라우드 비용 최적화**
+
+</td>
+<td align="center" width="50%">
+
+### 📊 경력 & 전문성
+⏰ **2년+ 클라우드 경험**<br/>
+🎯 **AWS & Kubernetes 전문가**<br/>
+🏆 **다수의 AWS 자격증 보유**<br/>
+📈 **대규모 인프라 운영 경험**<br/>
+🌟 **클라우드 네이티브 아키텍처**
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -126,22 +133,13 @@ graph TD
 ## 📚 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS EKS에서 Istio Service Mesh 구축하기](https://blog.example.com/eks-istio)
-- [Terraform으로 멀티 리전 인프라 자동화](https://blog.example.com/terraform-multi-region)
-- [Kubernetes 보안 모범 사례 가이드](https://blog.example.com/k8s-security)
-- [서버리스 아키텍처 설계 패턴](https://blog.example.com/serverless-patterns)
+- [AWS EKS에서 Istio Service Mesh 구축하기](https://kloudcomputing.tistory.com/)
+- [Terraform으로 멀티 리전 인프라 자동화](https://kloudcomputing.tistory.com/)
+- [Kubernetes 보안 모범 사례 가이드](https://kloudcomputing.tistory.com/)
+- [서버리스 아키텍처 설계 패턴](https://kloudcomputing.tistory.com/)
 <!-- BLOG-POST-LIST:END -->
 
-## 🤝 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Blog](https://img.shields.io/badge/Tech_Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-</div>
 
 ## 💡 Fun Facts
 
