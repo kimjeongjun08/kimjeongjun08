@@ -15,30 +15,15 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="50%">
-
 ### 💼 전문 분야
-🏗️ **클라우드 아키텍처 설계**<br/>
-⚙️ **Infrastructure as Code**<br/>
-🐳 **컨테이너 오케스트레이션**<br/>
-🔄 **CI/CD 파이프라인 자동화**<br/>
-💰 **클라우드 비용 최적화**
+🏗️ **클라우드 아키텍처 설계** | ⚙️ **Infrastructure as Code** | 🐳 **컨테이너 오케스트레이션**
 
-</td>
-<td align="center" width="50%">
+🔄 **CI/CD 파이프라인 자동화** | 💰 **클라우드 비용 최적화** | 🌟 **클라우드 네이티브 아키텍처**
 
 ### 📊 경력 & 전문성
-⏰ **2년+ 클라우드 경험**<br/>
-🎯 **AWS & Kubernetes 전문가**<br/>
-🏆 **다수의 AWS 자격증 보유**<br/>
-📈 **대규모 인프라 운영 경험**<br/>
-🌟 **클라우드 네이티브 아키텍처**
+⏰ **2년+ 클라우드 경험** | 🎯 **AWS & Kubernetes 전문가** | 🏆 **기능경기대회 수상**
 
-</td>
-</tr>
-</table>
+📈 **대규모 인프라 운영 경험** | 🚀 **멀티 클라우드 플랫폼 구축** | 📖 **기술 블로그 운영**
 
 </div>
 
@@ -48,8 +33,6 @@
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 🐳 Container & Orchestration
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -59,17 +42,21 @@
 ### 🏗️ Infrastructure as Code
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-FF4F00?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
 ### 🔄 CI/CD & DevOps
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![AWS CodeSeries](https://img.shields.io/badge/AWS_CodeSeries-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### 📊 Monitoring & Observability
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=elastic-stack&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 </div>
 
@@ -79,20 +66,24 @@
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+### 💻 Most Used Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-## 🏆 AWS Certifications
+## 🏆 수상 경력
 
 <div align="center">
 
-| Certification | Status | Date |
-|---------------|--------|------|
-| 🏅 AWS Solutions Architect Professional | ✅ Certified | 2023 |
-| 🏅 AWS DevOps Engineer Professional | ✅ Certified | 2023 |
-| 🏅 AWS Security Specialty | ✅ Certified | 2022 |
-| 🏅 AWS SysOps Administrator Associate | ✅ Certified | 2022 |
+| 대회명 | 수상 | 연도 |
+|--------|------|------|
+| 🥈 지방경기대회 | 은메달 | 2025 |
+| 🏅 제60회 전국기능경기대회 | 장려상 | 2025 |
 
 </div>
 
@@ -130,14 +121,15 @@ graph TD
 - **Description**: 실시간 클라우드 비용 모니터링 및 최적화 시스템
 - **Highlights**: 월 클라우드 비용 25% 절감
 
-## 📚 Latest Blog Posts
+## 📚 현재 운영중인 블로그
 
-<!-- BLOG-POST-LIST:START -->
-- [AWS EKS에서 Istio Service Mesh 구축하기](https://kloudcomputing.tistory.com/)
-- [Terraform으로 멀티 리전 인프라 자동화](https://kloudcomputing.tistory.com/)
-- [Kubernetes 보안 모범 사례 가이드](https://kloudcomputing.tistory.com/)
-- [서버리스 아키텍처 설계 패턴](https://kloudcomputing.tistory.com/)
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+
+[![Blog](https://img.shields.io/badge/현재_운영중인_블로그-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://kloudcomputing.tistory.com/)
+
+**🌐 [https://kloudcomputing.tistory.com/](https://kloudcomputing.tistory.com/)**
+
+</div>
 
 
 
